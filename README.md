@@ -125,7 +125,3 @@ This project helps understand:
 # Author
 
 **Aditya Verma**
-
-## ⭐ Support
-
-If you found this project useful, please give it a **Star ⭐** on GitHub.
