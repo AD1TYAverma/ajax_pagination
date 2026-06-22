@@ -19,8 +19,8 @@ A dynamic **Pagination System** built using **PHP, MySQL, AJAX, and jQuery**. Th
 - MySQL
 - AJAX
 - jQuery
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## 📂 Project Structure
 
