@@ -90,14 +90,7 @@ CREATE TABLE students (
 4. Records are displayed dynamically.
 5. Clicking a page number loads new records without refreshing the page.
 
-##  Screenshots
 
-Add screenshots of:
-
-- Main Page
-- Pagination Navigation
-- Active Page Selection
-- Records Loading Dynamically
 
 ## Learning Objectives
 
@@ -123,5 +116,4 @@ This project helps understand:
 - REST API Integration
 
 # Author
-
 **Aditya Verma**
